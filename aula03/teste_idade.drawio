@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Página-1" id="ul7EG555nQeEZNLWRFKm">
+    <mxGraphModel dx="2135" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FSuKsMvKoLhc4NeVHrqT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FSuKsMvKoLhc4NeVHrqT-1" target="FSuKsMvKoLhc4NeVHrqT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSuKsMvKoLhc4NeVHrqT-1" value="inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSuKsMvKoLhc4NeVHrqT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FSuKsMvKoLhc4NeVHrqT-2" target="FSuKsMvKoLhc4NeVHrqT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSuKsMvKoLhc4NeVHrqT-2" value="inteiro idade" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSuKsMvKoLhc4NeVHrqT-4" value="idade = 16" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="305" y="240" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSuKsMvKoLhc4NeVHrqT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FSuKsMvKoLhc4NeVHrqT-6" target="FSuKsMvKoLhc4NeVHrqT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSuKsMvKoLhc4NeVHrqT-6" value="idade &amp;gt;= 18" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FSuKsMvKoLhc4NeVHrqT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FSuKsMvKoLhc4NeVHrqT-4" target="FSuKsMvKoLhc4NeVHrqT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSuKsMvKoLhc4NeVHrqT-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FSuKsMvKoLhc4NeVHrqT-8" target="FSuKsMvKoLhc4NeVHrqT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSuKsMvKoLhc4NeVHrqT-8" value="&quot;Você pode tirar carta de motorista.&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="480" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FSuKsMvKoLhc4NeVHrqT-10" value="verdadeiro" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="383" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FSuKsMvKoLhc4NeVHrqT-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FSuKsMvKoLhc4NeVHrqT-11" target="FSuKsMvKoLhc4NeVHrqT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSuKsMvKoLhc4NeVHrqT-11" value="&quot;Fim do Programa&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSuKsMvKoLhc4NeVHrqT-13" value="fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="670" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FSuKsMvKoLhc4NeVHrqT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FSuKsMvKoLhc4NeVHrqT-6" target="FSuKsMvKoLhc4NeVHrqT-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="380" />
+              <mxPoint x="500" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSuKsMvKoLhc4NeVHrqT-17" value="falso" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
