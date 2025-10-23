@@ -41,7 +41,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CYaQUsnu2t1nLMdqTGqx-12" value="&quot;Peça ao seus pais ou responsável para preencher o formulário de matrícula.&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="CYaQUsnu2t1nLMdqTGqx-12" value="&quot;Peça aos seus pais ou responsável para preencher o formulário de matrícula.&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300" y="507.5" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CYaQUsnu2t1nLMdqTGqx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.576;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CYaQUsnu2t1nLMdqTGqx-8" target="CYaQUsnu2t1nLMdqTGqx-12">
