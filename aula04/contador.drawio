@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="Página-1" id="B_E5Okp39FSqGFiUdU2g">
+    <mxGraphModel dx="416" dy="257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RwoatT1A78YrJukSLC_b-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RwoatT1A78YrJukSLC_b-1" target="RwoatT1A78YrJukSLC_b-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RwoatT1A78YrJukSLC_b-1" value="inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RwoatT1A78YrJukSLC_b-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RwoatT1A78YrJukSLC_b-2" target="RwoatT1A78YrJukSLC_b-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RwoatT1A78YrJukSLC_b-2" value="inteiro contador" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="195" y="120" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RwoatT1A78YrJukSLC_b-4" value="contador = 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="195" y="200" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RwoatT1A78YrJukSLC_b-7" value="contador &amp;lt;= 5" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RwoatT1A78YrJukSLC_b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RwoatT1A78YrJukSLC_b-4" target="RwoatT1A78YrJukSLC_b-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RwoatT1A78YrJukSLC_b-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RwoatT1A78YrJukSLC_b-9" target="RwoatT1A78YrJukSLC_b-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RwoatT1A78YrJukSLC_b-9" value="&quot;Contador atual: &quot;, contador" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="420" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RwoatT1A78YrJukSLC_b-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RwoatT1A78YrJukSLC_b-7" target="RwoatT1A78YrJukSLC_b-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RwoatT1A78YrJukSLC_b-11" value="verdadeiro" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RwoatT1A78YrJukSLC_b-12" value="contador = contador + 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="185" y="520" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RwoatT1A78YrJukSLC_b-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RwoatT1A78YrJukSLC_b-12" target="RwoatT1A78YrJukSLC_b-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="545" />
+              <mxPoint x="165" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RwoatT1A78YrJukSLC_b-15" value="fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RwoatT1A78YrJukSLC_b-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RwoatT1A78YrJukSLC_b-7" target="RwoatT1A78YrJukSLC_b-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="335" />
+              <mxPoint x="380" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RwoatT1A78YrJukSLC_b-18" value="falso" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
